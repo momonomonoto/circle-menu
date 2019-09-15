@@ -10,7 +10,7 @@ ul {
 
 .circle-menu {
     display: flex;
-    max-width: 300px;
+    width: 20vw;
 }
 
 .circle-menu__item-container {
@@ -20,7 +20,7 @@ ul {
 .circle-menu__item {
     cursor: pointer;
     position: relative;
-    height: 150px;
+    height: 10vw;
     color: #ffffff;
 }
 
@@ -75,6 +75,7 @@ ul {
 .circle-menu__text {
     position: absolute;
     width: 50%;
+    font-size: 1vw;
 }
 
 .circle-menu__text_top {
@@ -85,6 +86,10 @@ ul {
 .circle-menu__text_bottom {
     right: 25%;
     top: 35%;
+}
+
+.circle-menu__text_left-width {
+    width: 40%;
 }
 
 .circle-menu__text_hidden {
@@ -152,6 +157,7 @@ ul {
 
 .circle-menu__item-list-element {
     border-bottom: 1px solid #ffad69;
+    font-size: 1vw;
 }
 
 .circle-menu__item-menu-text:hover,
