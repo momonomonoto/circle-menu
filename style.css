@@ -24,10 +24,6 @@ ul {
     color: #ffffff;
 }
 
-.circle-menu__item:hover {
-    color: #000000;
-}
-
 .circle-menu__item_top-left {
     background-color: #76cba8;
     border-top-left-radius: 300px;
