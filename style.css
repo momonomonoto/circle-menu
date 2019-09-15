@@ -98,7 +98,7 @@ ul {
 .circle-menu__item_top-right {
     position: relative;
     width: auto;
-    background: #bcdfa6;
+    background-color: #bcdfa6;
     border-top-right-radius: 300px;
     left: 0px;
     bottom: 0px;
